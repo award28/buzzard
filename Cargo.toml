@@ -2,6 +2,12 @@
 name = "buzzard"
 version = "0.1.0"
 edition = "2024"
+authors = ["Austin Ward", "Austin Ward <ward.austin28@gmail.com>"]
+description = "A lightweight, DDD-first message bus framework for Rust — orchestrate commands, events, and projections with confidence."
+readme = "README.md"
+repository = "https://github.com/award28/buzzard"
+license = "MIT"
+keywords = ["ddd", "bus", "uow"]
 
 [dependencies]
 anyhow = "1.0.96"
