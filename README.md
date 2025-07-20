@@ -1,6 +1,10 @@
-# 📨 Message Bus Framework (Rust)
+# 🦅 buzzard
 
-The Message Bus is a strongly typed, domain-driven orchestration layer for CQRS-style message processing in Rust. It enables you to model your business flows with explicit **Command**, **Event**, and **Projection** messages, while remaining infrastructure-agnostic.
+> A lightweight, DDD-first message bus framework for Rust — orchestrate commands, events, and projections with confidence.
+
+---
+
+**buzzard** is a strongly typed, domain-driven orchestration framework for message-based applications in Rust. Inspired by hexagonal and DDD patterns, it lets you model business flows with explicit **Command**, **Event**, and **Projection** types while remaining infrastructure-agnostic.
 
 ---
 
